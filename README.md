@@ -1,2 +1,5 @@
-# 360open-Texturepack
+# 360open Texturepack
 Official Resource pack for the swedish minecraft SMP 360open.
+
+Content:
+- Invisible String
